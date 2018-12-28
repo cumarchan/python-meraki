@@ -21,7 +21,7 @@ import json
 ##### GLOBAL VARIABLES #####
 
 apikey = "<enter_api_key>"
-orgid = "789251"
+orgid = "<enter_org_id>"
 tz = "Europe/London"
 
     
